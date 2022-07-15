@@ -34,7 +34,7 @@ git clone git@github.com:your_username/modern_app_jumpstart_workshop.git modern_
 
 ## Generate Local Kubeconfig
 
-To access the K8s API, you will need to download a kubeconfig file from the K3s server in your UDF blueprint.
+To access the K8s API, you will need to download a kubeconfig file from the K3s server in your [UDF blueprint](https://udf.f5.com/d/c45d1e4f-e123-4d37-8a8d-2a05c8f9d4c8#components).
 
 In your UDF deployment, click the Components tab then for the k3s system click the Access dropdown then the KUBECONFIG access method.
 
